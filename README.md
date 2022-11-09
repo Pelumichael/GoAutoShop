@@ -24,5 +24,3 @@ The Store class should have attributes like
 - Listing all product items in the store
 - Sell an item
 - Show a list of sold items and the total price
-
-This is not a cli or web app, the idea is to see how you can think through the problem solving process using all the knowledge we have gathered in all our lessons. It is a challenge to mainly see how you can think as a programmer. Your implementation will be reviewed line by line
